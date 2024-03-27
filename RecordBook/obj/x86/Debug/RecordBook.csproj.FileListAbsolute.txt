@@ -1,0 +1,17 @@
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\bin\x86\Debug\RecordBook.exe.config
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\bin\x86\Debug\RecordBook.exe
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\bin\x86\Debug\RecordBook.pdb
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.csproj.AssemblyReference.cache
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\Views\AddUser.g.cs
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\App.g.cs
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook_MarkupCompile.cache
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook_MarkupCompile.lref
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\MainWindow.baml
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\Views\AddUser.baml
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.g.resources
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.Properties.Resources.resources
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.csproj.GenerateResource.cache
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.csproj.CoreCompileInputs.cache
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.exe
+C:\Users\sjaiswal.DCSW\source\repos\RecordBook\RecordBook\obj\x86\Debug\RecordBook.pdb
